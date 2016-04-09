@@ -188,6 +188,23 @@
                     </execution>
                 </executions>
             </plugin>
+			<plugin>
+                <groupId>org.wildfly.plugins</groupId>
+                <artifactId>wildfly-maven-plugin</artifactId>
+                <version>1.1.0.Alpha7</version>
+				<configuration>
+					<port>9991</port>
+				</configuration>
+				<executions>
+                    <execution>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>deploy</goal>
+                        </goals>
+                    </execution>
+                </executions>
+
+            </plugin>
         </plugins>
     </build>
     <description>Sid-View Layer Project</description>
