@@ -1,0 +1,46 @@
+
+@charset "UTF-8";
+
+.btn-principal {
+    color: #fff;
+    background-color: #ff7200;
+    border-color: #f77207;
+}
+
+.btn-principal:hover {
+    color: #fff;
+    background: #ff5a00!important;
+}
+.right{
+    text-align:right;
+}
+.textocentro{
+    vertical-align: middle !important;
+    text-align:center;
+}
+.ocultar{
+    display:none;
+}
+
+.iconos{
+    font-size:14px;
+    color:white;
+    margin-left: 5px;
+}
+a.iconos:focus, a.iconos:hover {
+    color: white;
+    text-decoration: none;
+}
+a.iconos:hover {
+    cursor: pointer;
+    color: lightgray;
+}
+
+/* HACKS */
+.no-pad-left{
+    padding-left: 0;
+}
+
+#pnlFiltros .select2-container{
+    width: auto !important;
+}

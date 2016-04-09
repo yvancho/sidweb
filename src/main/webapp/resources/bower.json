@@ -1,0 +1,27 @@
+{
+    "name": "sidweb-view",
+    "description": "SID Web - View Layer",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "jquery": "latest",
+        "bootstrap": "latest",
+        "font-awesome": "latest",
+        "simple-line-icons": "latest",
+        "select2": "latest",
+        "bootbox": "latest",
+        "datatables.net": "latest",
+        "datatables.net-bs": "latest",
+        "angular": "~1.5.x",
+        "angular-sanitize": "~1.5.x",
+        "angular-route": "~1.5.x",
+        "angular-resource": "~1.5.x",
+        "angular-mocks": "~1.5.x",
+        "angular-animate": "~1.5.x",
+        "angular-loader": "~1.5.x"
+    },
+    "resolutions": {
+        "angular": "~1.5.x"
+    }
+}

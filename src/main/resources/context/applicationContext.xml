@@ -1,0 +1,56 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans     
+        http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-4.2.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd">
+
+    <context:component-scan base-package="pe.com.divemotor" />
+	
+    <context:property-placeholder location="classpath*:properties/url-ws.properties"/>
+    
+    <mvc:annotation-driven  />
+	
+    <mvc:resources location="/resources/" mapping="/resources/**" />
+            
+    <!--CORS-->
+    <mvc:cors>
+        <mvc:mapping path="/"
+                     allowed-origins="*"
+                     allowed-methods="POST, GET, PUT"
+                     allowed-headers="x-requested-with, Content-Type"                     
+                     max-age="3600" 
+                     allow-credentials="false"/>
+
+        <mvc:mapping path="/assets/**" 
+                     allowed-origins="*" />              
+    </mvc:cors>
+        
+    <!--JSP pages-->
+    <bean id="viewResolver"
+          class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/views/"></property>
+        <property name="suffix" value=".jsp"></property>
+    </bean>
+    
+    <!--Properties-->
+    <bean id="messageSource"
+          class="org.springframework.context.support.ResourceBundleMessageSource">
+        <property name="basename" 
+                  value="classpath*:properties/locale/messages"/>
+        <property name="defaultEncoding" value="UTF-8" />
+    </bean>
+   
+    <!--Upload files-->
+    <bean id="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="maxUploadSize" value="5242880" />
+    </bean>
+
+    <!--Internationalization-->
+    <import resource="applicationContext-locale.xml" />
+</beans>

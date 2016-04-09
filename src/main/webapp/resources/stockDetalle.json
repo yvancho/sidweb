@@ -1,0 +1,609 @@
+{
+    "nomCia": "DIVEIMPORT S.A.",
+    "codProv": "30100005",
+    "nomProv": "CHRYSLER INTERNATIONAL CORPORATION",
+    "nomFilial": "CANADA",
+    "numPedVeh": "004.WKJP162",
+    "vhcleSap": "0000223811",
+    "desAreaVta": "CHRYSLER GROUP",
+    "modelo": null,
+    "desTipoImportacion": "STOCK",
+    "desAdquisicion": "IMPORTACION",
+    "origen": "EXTRANJERO",
+    "indEquipoEsp": null,
+    "indDiplomatico": null,
+    "fecProdSoliPedidoVeh": "03/11/2014",
+    "fecProdPedidoVeh": "03/11/2014",
+    "fecCarro": null,
+    "fecSalCarro": null,
+    "fecSalFabrica": "25/11/2014",
+    "fecIngCarro": null,
+    "fecProvCarro": null,
+    "nomProvCarro": null,
+    "numSemProdPedVeh": null,
+    "numVtc": null,
+    "numVin": "1C4RJFBM7FC701827",
+    "numMotorVeh": "1C4RJFBM7FC701827",
+    "anoFabricacionVeh": "2014",
+    "codCmf": "1C4",
+    "baumuster": "RJFBM7",
+    "fabrica": "FC",
+    "numCorre": "701827",
+    "numChasis": "1C4RJFBM7FC701827",
+    "numKmVeh": null,
+    "numVon": null,
+    "desUbicaPedido": "ARRIOLA",
+    "nomAlmacenVeh": "EXISTENCIAS POR RECIBIR",
+    "coUsuarioCreaReg": "MPOMAREDA",
+    "fecCreaReg": "13/11/2014",
+    "fecEntregaClie": null,
+    "fecIniGarantiaVeh": null,
+    "numKmGarantiaVeh": null,
+    "obsPedidoVeh": "Stand Asia - Verano 2015\n\nCompany Car - Thomas Mangold \n",
+    "situaciones": [
+        {
+            "numRegPedidoSitu": "001",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "13/11/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "002",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "03/11/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "003",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "25/11/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "004",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "03/12/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "005",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "23/12/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "006",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "22/12/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "007",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "29/12/2014",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "008",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "07/01/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "009",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "21/01/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "010",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "22/01/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "011",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "03/03/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "012",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "03/03/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "013",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "04/03/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        },
+        {
+            "numRegPedidoSitu": "014",
+            "desSituPedido": "AUTORIZACION DE SALIDA",
+            "fecSituPedido": "03/08/2015",
+            "obsSituPedido": "Situacion generada desde SAP",
+            "indAnulado": null
+        }
+    ],
+    "caracteristicas": [
+        {
+            "codCaractVeh": "85",
+            "desCaractVeh": "AÑO FABRICACIÓN",
+            "valCaractVeh": "2015",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "86",
+            "desCaractVeh": "CILINDRADA",
+            "valCaractVeh": "2,987 cc",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "87",
+            "desCaractVeh": "POTENCIA",
+            "valCaractVeh": "247 HP / 4,000 RPM",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "123",
+            "desCaractVeh": "LARGO",
+            "valCaractVeh": "4,828 mm",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "124",
+            "desCaractVeh": "ALTO",
+            "valCaractVeh": "1,802 mm",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "125",
+            "desCaractVeh": "ANCHO",
+            "valCaractVeh": "1,943 mm",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "145",
+            "desCaractVeh": "TORQUE",
+            "valCaractVeh": "549 / 2,800 Nm (NewtonMeters)",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "147",
+            "desCaractVeh": "TRANSMISION",
+            "valCaractVeh": "AUTOMÁTICA DE 8 VELOCIDADES",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "149",
+            "desCaractVeh": "MOTOR",
+            "valCaractVeh": "3.0L V6 TURBO DIESEL INTERCOOLER",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "161",
+            "desCaractVeh": "TRACCION",
+            "valCaractVeh": "4x4",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "181",
+            "desCaractVeh": "CAPACIDAD DE COMBUSTIBLE",
+            "valCaractVeh": "27.6 gls",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "183",
+            "desCaractVeh": "DISTANCIA ENTRE EJES",
+            "valCaractVeh": "2,915 mm",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "272",
+            "desCaractVeh": "AÑO MODELO",
+            "valCaractVeh": "2015",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "120",
+            "desCaractVeh": "PESO BRUTO",
+            "valCaractVeh": "2,949 Kg",
+            "valCaractVehFactura": null
+        },
+        {
+            "codCaractVeh": "134",
+            "desCaractVeh": "# CILINDROS",
+            "valCaractVeh": "6",
+            "valCaractVehFactura": null
+        }
+    ],
+    "equiposSerie": [
+        {
+            "codEquipoVeh": "JHBS",
+            "desEquipoVeh": "LIMPIA PARABRISAS POSTERIOR",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "BNGS",
+            "desEquipoVeh": "ASISTENTE DE ARRANQUE EN PENDIENTES (HILL START ASSIST)",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "GNCS",
+            "desEquipoVeh": "TAPASOLES CON ESPEJO ILUMINADO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "BNBS",
+            "desEquipoVeh": "CONTROL ELECTRONICO DE ESTABILIDAD",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LEWS",
+            "desEquipoVeh": "MEMORIA  ASIENTO DEL CONDUCTOR Y ESPEJOS",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "JHCS",
+            "desEquipoVeh": "LIMPIA PARABRISAS CON ACTIVACION SENSIBLE A LA LLUVIA",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "RDZP",
+            "desEquipoVeh": "CONTROLES DE AUDIO EN EL TIMON",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "JPZ",
+            "desEquipoVeh": "2DA FILA DE ASIENTOS CON CALEFACCION",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LEU",
+            "desEquipoVeh": "ESPEJO LATERAL DEL PASAJERO ANTI DESTELLO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "BNHP",
+            "desEquipoVeh": "CONTROL DE DESCENSO EN PENDIENTES",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CUKP",
+            "desEquipoVeh": "CENICERO REMOVIBLE",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LSES",
+            "desEquipoVeh": "SISTEMA MEJORADO DE RESPUESTA EN ACCIDENTES (EARS)",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "XAC",
+            "desEquipoVeh": "CAMARA DE RETROCESO (PARKVIEW TM)",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LPGS",
+            "desEquipoVeh": "FAROS NEBLINEROS POSTERIORES",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CG3",
+            "desEquipoVeh": "AIRBAGS DELANTEROS MULTI ETAPA DE AVANZADA",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "GNZ",
+            "desEquipoVeh": "ESPEJO LATERAL DEL CONDUCTOR ANTIDESTELLO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "HAF",
+            "desEquipoVeh": "AIRE ACONDICIONADO C/ CONTROL DE DOBLE ZONA",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "RC3",
+            "desEquipoVeh": "9 PARLANTES C/ SUBWOOFER",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "GX4",
+            "desEquipoVeh": "SISTEMA ENTER-N-GO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "GYC",
+            "desEquipoVeh": "ESPEJOS DE PLEGADO ELECTRICO MULTIFUNCION",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LM2",
+            "desEquipoVeh": "LUCES BI-XENON",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "BR6",
+            "desEquipoVeh": "FRENOS ANTI-LOCK (ABS) EN LAS 4 RUEDAS",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "XAB",
+            "desEquipoVeh": "SISTEMA DE TRACCION SELEC-TERRAIN",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CGY",
+            "desEquipoVeh": "AIRBAG DE RODILLA PARA CONDUCTOR",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CJ1",
+            "desEquipoVeh": "AIRBAG SUPLEMENTARIOS LATERALES DE ASIENTOS DELANTEROS",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "XAG",
+            "desEquipoVeh": "SISTEMA PARKSENSE DELANTERO Y POSTERIOR",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CVW",
+            "desEquipoVeh": "PALANCA DE CAMBIOS EN CUERO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CWP",
+            "desEquipoVeh": "SUJETADOR DE VASOS ILUMINADO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "JRC",
+            "desEquipoVeh": "PUERTA POSTERIOR LEVADIZA ELECTRICA",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "CJ2",
+            "desEquipoVeh": "AIRBAGS DE CORTINA SUPLEMENTARIOS LATERALES DELANTERO/POSTERIOR",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "RSQS",
+            "desEquipoVeh": "COMANDO DE VOZ UCONNECT C/ BLUETOOTH",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "GN5P",
+            "desEquipoVeh": "ESPEJO RETROVISOR C/ MICROFONO Y ANTIDESTELLO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "GWJ",
+            "desEquipoVeh": "SUNROOF PANORAMICO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "JRNS",
+            "desEquipoVeh": "ASIENTOS DELANTEROS C/ AJUSTE LUMBAR ELECTRICO 4-POSICIONES",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LNNS",
+            "desEquipoVeh": "FAROS NEBLINEROS DELANTEROS PREMIUM",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "XXEP",
+            "desEquipoVeh": "SISTEMA DE DIRECCION ELECTRO-HIDRAULICA",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "NHS",
+            "desEquipoVeh": "TIMON CON CALEFACCION",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "SER",
+            "desEquipoVeh": "SUSPENSIÓN DE AIRE QUADRA-LIFT",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "NEL",
+            "desEquipoVeh": "PUNTAS DE ESCAPE DUAL BRILLANTE",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "LSDS",
+            "desEquipoVeh": "ALARMA DE SEGURIDAD DE LUJO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "BHCS",
+            "desEquipoVeh": "SOPORTE PARA FRENADO EN LLUVIA",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "RS1",
+            "desEquipoVeh": "PUERTO PARA TARJETA SD",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "RFL",
+            "desEquipoVeh": "PANTALLA TACTIL DE 8.4\"",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "*DL",
+            "desEquipoVeh": "ASIENTO DE CUERO PERFORADO",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "WBL",
+            "desEquipoVeh": "AROS DE ALUMINIO DE 18\"",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "XBQ",
+            "desEquipoVeh": "CAMBIOS MONTADOS EN TIMÓN (PADDLE SHIFT)",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "AEKP",
+            "desEquipoVeh": "2 BLU-RAY EN RESPALDAR DE ASIENTOS DELANTEROS.",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "JT2S1",
+            "desEquipoVeh": "ASIENTO CONDUCTOR ELECTRICO DE 8 POSICIONES CON MEMORIA",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "JT2S2",
+            "desEquipoVeh": "ASIENTO PASAJETRO ELECTRICO DE 8 POSICIONES",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "RJ4S",
+            "desEquipoVeh": "UCONNECT 8.4N AM/FM/BT/NAV",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        },
+        {
+            "codEquipoVeh": "SEGA",
+            "desEquipoVeh": "SEGURO DE AROS",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "SEGE",
+            "desEquipoVeh": "SEGURO DE ESPEJOS",
+            "valEquipoVeh": null,
+            "indRevRecep": "N",
+            "indActaEntrega": "N"
+        },
+        {
+            "codEquipoVeh": "LEBP",
+            "desEquipoVeh": "ESPEJOS EXTERIORES CON SEÑALES SUPLEMENTARIAS",
+            "valEquipoVeh": null,
+            "indRevRecep": null,
+            "indActaEntrega": null
+        }
+    ],
+    "equiposOpcionales": null
+}
