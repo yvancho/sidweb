@@ -20,7 +20,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta content="SID web - Sistema de Información de Divemotor" name="description" />
-        <meta content="YVAN LOPEZ" name="author" />
+        <meta content="DIVEMOTOR" name="author" />
 
         <link href="resources/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="resources/bower_components/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css"/>
