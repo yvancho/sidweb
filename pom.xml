@@ -13,6 +13,10 @@
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring.security.version>4.0.4.RELEASE</spring.security.version>
         <log4j.version>2.3</log4j.version>
+		<jobss-hostname>127.0.0.1</jobss-hostname>
+		<jobss-port>9990</jobss-port>
+		<jobss-username>admin</jobss-username>
+		<jobss-password>123456</jobss-password>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>        
     </properties>
@@ -189,11 +193,30 @@
                 </executions>
             </plugin>
 			<plugin>
+                <groupId>org.jboss.as.plugins</groupId>
+                <artifactId>jboss-as-maven-plugin</artifactId>
+                <version>7.7.Final</version>
+                <executions>
+				<configuration>
+					<hostname>${jboss-hostname}</hostname>
+					<port>${jboss-port}</port>
+					<username>${jboss-username}</username>
+					<password>${jboss-password}</password>
+				</configuration>
+                    <execution>
+                        <phase>install</phase>
+                        <goals>
+                            <goal>deploy</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+			<!-- <plugin>
                 <groupId>org.wildfly.plugins</groupId>
                 <artifactId>wildfly-maven-plugin</artifactId>
                 <version>1.1.0.Alpha7</version>
 				<configuration>
-					<port>9991</port>
+					<port>9990</port>
 				</configuration>
 				<executions>
                     <execution>
@@ -203,8 +226,7 @@
                         </goals>
                     </execution>
                 </executions>
-
-            </plugin>
+            </plugin> -->
         </plugins>
     </build>
     <description>Sid-View Layer Project</description>
