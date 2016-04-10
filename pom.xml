@@ -137,7 +137,7 @@
 
     </dependencies>
     <build>
-        <finalName>sidviewtest</finalName>
+        <finalName>sid-view</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
