@@ -196,13 +196,13 @@
                 <groupId>org.jboss.as.plugins</groupId>
                 <artifactId>jboss-as-maven-plugin</artifactId>
                 <version>7.7.Final</version>
-                <executions>
 				<configuration>
 					<hostname>${jboss-hostname}</hostname>
 					<port>${jboss-port}</port>
 					<username>${jboss-username}</username>
 					<password>${jboss-password}</password>
 				</configuration>
+                <executions>				
                     <execution>
                         <phase>install</phase>
                         <goals>
@@ -210,23 +210,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
-			<!-- <plugin>
-                <groupId>org.wildfly.plugins</groupId>
-                <artifactId>wildfly-maven-plugin</artifactId>
-                <version>1.1.0.Alpha7</version>
-				<configuration>
-					<port>9990</port>
-				</configuration>
-				<executions>
-                    <execution>
-                        <phase>install</phase>
-                        <goals>
-                            <goal>deploy</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin> -->
+            </plugin>			
         </plugins>
     </build>
     <description>Sid-View Layer Project</description>
